@@ -1,4 +1,4 @@
-<h1 align="center">Salom, men Sardorbek! 👋</h1>
+<h1 align="center">Salom, men Sultanov Rasulbek man! 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=440&lines=Python+Developer;Web+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
