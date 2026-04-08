@@ -22,8 +22,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-📂 Mashhur Loyihalarim
-LoyihaTavsifTil🛒 shop_project-Online do'kon loyihasiPython📖 Lerning_center-O'quv markazi tizimiPython🌐 online_cource-Online kurs platformasiHTML
+
 
 📊 GitHub Statistikam
 <p align="center">
@@ -38,13 +37,6 @@ LoyihaTavsifTil🛒 shop_project-Online do'kon loyihasiPython📖 Lerning_center
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=6770625m-netizen&theme=tokyonight&no-frame=true&column=4" />
 </p>
-
-🌱 Hozir nimani o'rganmoqdaman?
-
-🔹 Django va Flask frameworklari
-🔹 Ma'lumotlar bazasi (PostgreSQL, SQLite)
-🔹 REST API yaratish
-🔹 JavaScript asoslari
 
 
 💬 Maqsadim
